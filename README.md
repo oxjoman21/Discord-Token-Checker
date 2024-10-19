@@ -1,17 +1,20 @@
 #  **Discord Token Checker**
 
-
 ### 🛠 **Features**
 
-- 🔐 **Simple but HQ Token Checker!.
-- 📧 **Verification Check! .
-- 📝 **Scraping of Token Infos (Payment will be aded soon!).
+- 🔐 **Simple but High-Quality Token Checker!**
+- 📧 **Verification Check!**
+- 📝 **Scraping of Token Info (Payment feature will be added soon!)**
 
 ## 📦 **Installation**
 
- Make sure Python 3 is installed. 
+Make sure Python 3 is installed.
 
-Requirments!
+ This took me just 30 minutes and doesn't represent my current coding skills!
+ I made this checker during my time learning Python!
+ So if you encounter any issues, please create an issue!
+
+### Requirements:
 
 ```bash
 pip install requests
