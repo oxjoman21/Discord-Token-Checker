@@ -1,13 +1,17 @@
-#	Make with Love 
+#	Made with Love 
 
-
-import requests
-import base64
-import json
 import os
-import time 
-from log import Log 
-from fake_useragent import UserAgent
+
+try:
+    import requests
+    import base64
+    import json
+    import os
+    import time 
+    from log import Log 
+    from fake_useragent import UserAgent
+except ModuleNotFoundError:
+    os.system("pip install requests fake-useragent")
 
 #   Read Configs
 
